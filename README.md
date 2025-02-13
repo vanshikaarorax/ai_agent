@@ -42,9 +42,8 @@ Key Features
 Installation & Setup
 
 Clone the Repository
-git clone https://github.com/Akhilesh1712/AI_AGENT_RECOMMENDATION_APPLICATION.git
 
-cd AI_AGENT_RECOMMENDATION_APPLICATION
+cd ai_agent
 
 Backend Setup (Flask + ML)
 Install Dependencies
